@@ -7,3 +7,9 @@ Welcome to today's hands-on workshop:
 - PDFs can be found here: [View](/Files) [Download](https://raw.githubusercontent.com/NoserEngineeringAG/startupnight2023-chatgpt/main/Files/Files.zip)
 
 > ℹ️ Always start with the step-by-step guide, you will setup the required resources for the coding track
+
+Links
+- [Azure Open AI Docs](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
+- [Prompting & Techniques](https://www.promptingguide.ai/)
+- [Microsoft for Startups Switzerland](https://aka.ms/swiss-startups)
+- [Noser Engineering AG](https://www.noser.com)
